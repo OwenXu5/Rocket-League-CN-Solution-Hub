@@ -8,6 +8,7 @@
 - 点击**检测延迟**
 - 选择一个连通的服务器（推荐日本）
 - 点击**应用选中**
+
 ![改host示意图1](/pics/connection/usb1.jpg)
 
 ![改host示意图2](/pics/connection/usb2.jpg)
