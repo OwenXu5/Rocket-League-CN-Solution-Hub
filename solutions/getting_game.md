@@ -8,11 +8,13 @@
     注意，账号**不能**是以下地区的：大陆(zh-cn)，港区（zh-hk），台区（zh-tw），韩区（kr）。
 
     并且，若账号在Epic曾经**消费**过（花过钱，白嫖的游戏不算）则**无法改区**。
-    
+
     [Epic改区链接](https://www.epicgames.com/help/zh-CN/wizards/w3)
 - 配合对应地区的VPN，即**账号地区和VPN地区相同**。从网页端登陆Epic后，搜索Rocket League并入库即可。随后正常启动Epic客户端即可看到游戏，便可正常下载运行。
 
-    若遇到连接不上游戏服务器，请查阅[连接不上服务器](/solutions/server_connection.md)文档。
+    [Rocket League入库链接](https://store.epicgames.com/en-US/p/rocket-league)
+
+    若连接不上游戏服务器，请查阅[连接不上服务器](/solutions/server_connection.md)文档。
 
 ## 手游获取
 - 苹果系统
