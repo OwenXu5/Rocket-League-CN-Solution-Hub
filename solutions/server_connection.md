@@ -9,6 +9,7 @@
 - 选择一个连通的服务器（推荐日本）
 - 点击**应用选中**
 ![改host示意图1](/pics/connection/usb1.jpg)
+
 ![改host示意图2](/pics/connection/usb2.jpg)
 ---
 ## 针对无法连接游戏服务器的解决方案
@@ -16,28 +17,33 @@
 1. 更改host服务器和加速器节点
     如上，在usbeam host editor中**更换host服务器**，并尝试加速器的**不同节点**或**不同加速器**。
 2. 尝试删除游戏的本地网络缓存
-    - 删除位于如下路径下的**所有内容**
+    删除位于如下路径下的**所有内容**
+
     **我的文档\My Games\Rocket League\TAGame\Cache**
+
     ![缓存](/pics/connection/cache.png)
 3. 更换DNS
-- 改DNS教程
-[改DNS教程（Win10）](https://blog.csdn.net/itnerd/article/details/106764904)
-[改DNS教程（Win11）](https://blog.csdn.net/qq_44628595/article/details/121989853)
-- 可选DNS列表
+    - 改DNS教程
 
-    |服务商|DNS地址|备用DNS地址|
-    |:----:|:----:|:----:|
-    |114|114.114.114.114|115.115.115.115|
-    |**阿里 AliDNS**|223.5.5.5|223.6.6.6|
-    |百度 BaiduDNS|180.76.76.76|无|
-    |**DNSPod DNS+**|119.29.29.29|182.254.116.116|
-    |CNNIC SDNS|1.2.4.8|210.2.4.8|
-    |oneDNS|112.124.47.27|114.215.126.16|
-    |DNS 派|电信/移动/铁通|101.226.4.6|218.30.118.6|
-    |DNS 派|联通|123.125.81.6|140.207.198.6|
-    |**Google DNS**|8.8.8.8|8.8.4.4|
-    |OpenDNS|208.67.222.222|208.67.220.220|
-    |V2EX DNS|199.91.73.222|178.79.131.110|
+    [改DNS教程（Win10）](https://blog.csdn.net/itnerd/article/details/106764904)
+
+    [改DNS教程（Win11）](https://blog.csdn.net/qq_44628595/article/details/121989853)
+
+    - 可选DNS列表
+
+        |服务商|DNS地址|备用DNS地址|
+        |:----:|:----:|:----:|
+        |114|114.114.114.114|115.115.115.115|
+        |**阿里 AliDNS**|223.5.5.5|223.6.6.6|
+        |百度 BaiduDNS|180.76.76.76|无|
+        |**DNSPod DNS+**|119.29.29.29|182.254.116.116|
+        |CNNIC SDNS|1.2.4.8|210.2.4.8|
+        |oneDNS|112.124.47.27|114.215.126.16|
+        |DNS 派|电信/移动/铁通|101.226.4.6|218.30.118.6|
+        |DNS 派|联通|123.125.81.6|140.207.198.6|
+        |**Google DNS**|8.8.8.8|8.8.4.4|
+        |OpenDNS|208.67.222.222|208.67.220.220|
+        |V2EX DNS|199.91.73.222|178.79.131.110|
 
 4. 清除DNS缓存
 - 打开CMD
@@ -48,7 +54,7 @@
     ![flushdns](/pics/connection/flushdns.jpg)
 
 5. ***重置Winsock（慎用）***
-- 打开CMD
+- 打开CMD  
     按下<kbd>Ctrl</kbd>+<kbd>R</kbd>呼起运行，输入CMD并<kbd>Enter</kbd>
 - 在CMD中输入如下命令并执行
     >netsh reset winsock
