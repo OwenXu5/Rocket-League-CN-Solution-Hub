@@ -1,4 +1,7 @@
 # 如何获取游戏（端游/手游）
+
+## [返回主页](/README.md)
+
 ---
 ## 端游获取
 目前，火箭联盟（Rocket League）PC端已在Steam平台全区下架，为**Epic平台独占**。但库存中已拥有的老玩家仍可正常从steam启动游玩，但需要**绑定Epic账号**。
@@ -22,3 +25,5 @@
 - 安卓系统
     1. 下载[移动端Epic商城](https://store.epicgames.com/zh-CN/mobile/android)。搜索Rocket League Sideswipe下载即可。
     2. 在[QQ群](/README.md#欢迎光临rlcn解忧杂货铺)的群文件中会不定时更新安卓端的安装包，直接下载安装即可。
+
+## [返回主页](/README.md)
